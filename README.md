@@ -34,11 +34,6 @@ A modular, lightweight automated web vulnerability scanner and reconnaissance to
 You can install the required dependencies using:
 ```bash
 pip install requests beautifulsoup4
-
-
-
-
-
-
+---
 ⚠️ Disclaimer
 This tool is created strictly for educational purposes and authorized security testing. Do not use it against targets without explicit prior legal permission.
